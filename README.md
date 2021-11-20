@@ -1,2 +1,8 @@
-# Token-24-7-online-with-streaming-status-
-24/7 hosting tokens with streaming and filtering valid tokens 
+#Token hosting 24/7 with streaming status 
+:)
+
+#How to run
+put tokens in "tokens.txt" then go to "config.py" customize your streaming status 
+
+#upcoming 
+24/7 in vc 
