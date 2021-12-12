@@ -1,5 +1,5 @@
 # Token hosting 24/7 with streaming status 
-:) Any help you want join discord.gg/eboy
+:) Any help you want join discord.gg/cocktail
 my username "@ᎠᏋᏋᎮ 💛#4242"
 
 # How to run
